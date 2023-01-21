@@ -1,0 +1,6 @@
+.root {
+    -fx-base: #373e43;
+}
+.text-field {
+    -fx-text-fill: lightgray;
+}
