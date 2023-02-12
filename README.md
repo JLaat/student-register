@@ -1,6 +1,6 @@
 # Student Register
 ## What is it?
-This is an application I've made as an exercise in user interface programming.
+This is an application I've made as an exercise in user interface programming course.
 Application performs basic CRUD operations to handle student information.
 
 ## Technologies
